@@ -6,8 +6,9 @@ These are some programs based on visual studio c# for voice synthesis and speech
 「LinqToWiki」を使用しております。
  
 ## 2. Details
-　本プログラムは、３つのパートから構成されており、どれも上記緑色の「Code」からダウンロードできます。　それぞれのパートについて、以下に示します。
+　本プログラムは、３つのパートから構成されており、どれも上記「Code」からダウンロードできます。　ダウンロードしたファイルを解凍し、「*.sln」を開いて「開始」ボタンでコンパイルすることで実行ファイルが作成されます。　以下にそれぞれのパートについて説明します。
 ### Part-1: 音声合成
+「Voice_Synthesis_and_Recognition-001」
 
 ### Part-2: 音声認識
 
