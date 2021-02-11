@@ -2,7 +2,7 @@
 These are some programs based on visual studio c# for voice synthesis and speech recognition. In this time, it is recognized only Japanese. 
 ## 1. Description
 　無料で使用可能な音声合成と音声認識プログラムの（その１）をお届けします。　本プログラムは、Visual Studio 2019 の windowsフォームアプリケーション（.NET Framework）C# で作成しました。　音声合成／音声認識エンジンは「System.Speech」を形態素解析エンジンには「NMeCab」を使用しました。　さらに、ウィキペディアから情報を入手するため、「LinqToWiki」を使用しております。  
-　より簡単に音声合成・音声認識を体験したい方は、[Voice Synthesis and Speech Recognition (Part-2)](https://github.com/To-Fujita/Voice-Synthesis-and-Speech-Recognition_-Part_2-)をご覧ください。 
+　また、より簡単に音声合成・音声認識を体験したい方は、[Voice Synthesis and Speech Recognition (Part-2)](https://github.com/To-Fujita/Voice-Synthesis-and-Speech-Recognition_-Part_2-)をご覧ください。 
  
 ## 2. Details
 　本プログラムは、３つのパートから構成されており、上記「Code」から一括ダウンロードできます。　ダウンロードしたファイルを解凍し、それぞれの「*.sln」を開いて「開始」ボタンでコンパイルすることで実行ファイルが作成されます。　以下にそれぞれのパートについて説明します。
