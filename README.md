@@ -24,7 +24,7 @@ These are some programs based on visual studio c# for voice synthesis and speech
 [SpeechRecognitionEngine](https://docs.microsoft.com/ja-jp/dotnet/api/system.speech.recognition.speechrecognitionengine?view=netframework-4.8)  
 [MeCab: Yet Another Part-of-Speech and Morphological Analyzer](http://taku910.github.io/mecab/)  
 [LinqToWiki](https://github.com/svick/LINQ-to-Wiki)  
-[Voice Synthesis and Speech Recognition (Part-2)]()　HTML及びJavaScriptで作成した音声合成・音声認識プログラム  
+[Voice Synthesis and Speech Recognition (Part-2)](https://github.com/To-Fujita/Voice-Synthesis-and-Speech-Recognition_-Part_2-)　HTML及びJavaScriptで作成した音声合成・音声認識プログラム  
 
 ## 4. License
 MIT
